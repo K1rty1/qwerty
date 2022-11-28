@@ -4,8 +4,8 @@
              xmlns:local="clr-namespace:qwerty"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <SolidColorBrush Color="#FFFFFF" x:Key="Основной фон" />
-        <SolidColorBrush Color="#D3D3D3" x:Key="Дополнительный фон " />
-        <SolidColorBrush Color="#A163F5" x:Key="Акцентирование внимания" />
+        <SolidColorBrush Color="#FFFFFF" x:Key="MainColor" />
+        <SolidColorBrush Color="#D3D3D3" x:Key="SecondColor" />
+        <SolidColorBrush Color="#A163F5" x:Key="AccentuationColor" />
     </Application.Resources>
 </Application>
